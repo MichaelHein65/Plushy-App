@@ -1,0 +1,5 @@
+{
+  "name": "Plushy World Transformer",
+  "description": "Transform your images into a hairy plush world using Gemini 2.5 Flash Image editing capabilities.",
+  "requestFramePermissions": []
+}
